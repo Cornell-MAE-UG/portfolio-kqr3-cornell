@@ -9,7 +9,7 @@ title: <Krista Roessle>
 ![Profile Picture](assets/images/profile-pic.jpg){: class="profile-image"}
 
  
-My name is {{ Krista Roessle }}, and I am a senior at Cornell University, studying Mechanical Engineering. I've always been a hands-on person, with numerous hobbies like riding motorcycles and knitting to show for it. Mechanical Engineering has always been a natural fit for me.
+My name is Krista Roessle, and I am a senior at Cornell University, studying Mechanical Engineering. I've always been a hands-on person, with numerous hobbies like riding motorcycles and knitting to show for it. Mechanical Engineering has always been a natural fit for me.
 
 I'm highly curious and analytical, wanting to understand the "how" and "why" of issues that affect us and create solutions to give people a better quality of life. Knowing that my work would allow individuals to be safer and happier doing what they love to do drives me to do what I do!
 

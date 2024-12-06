@@ -5,7 +5,7 @@ title: <Krista Roessle>
 
 ## About Me
 
-![Profile Picture](assets/images/profile-pic.jpg){: class="profile-image"}
+![Profile Picture](assets/images/Krista_Roessle_Headshot.png)
 
  
 My name is Krista Roessle, and I am a senior at Cornell University, studying Mechanical Engineering. I've always been a hands-on person, with numerous hobbies like riding motorcycles and knitting to show for it. Mechanical Engineering has always been a natural fit for me.

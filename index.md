@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: <Krista Roessle>
 ---
 
 ## About Me
@@ -9,8 +9,10 @@ title: <Your Name>
 ![Profile Picture](assets/images/profile-pic.jpg){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is {{ Krista Roessle }}, and I am a senior at Cornell University, studying Mechanical Engineering. I've always been a hands-on person, with numerous hobbies like riding motorcycles and knitting to show for it. Mechanical Engineering has always been a natural fit for me.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+I'm highly curious and analytical, wanting to understand the "how" and "why" of issues that affect us and create solutions to give people a better quality of life. Knowing that my work would allow individuals to be safer and happier doing what they love to do drives me to do what I do!
+
+Professionally, I am interested in the intersection of Mechanical Engineering and Biomedical Engineering. I am passionate about medical devices and am seeking opportunities within the field.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.

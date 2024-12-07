@@ -14,7 +14,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : Krista Roessle
 description              : Krista Roessle - Projects and CV 
 baseurl                  : "" # Set this to "" if using GitHub Pages.
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://cornell-mae-ug.github.io/portfolio-kqr3-cornell/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 # Theme and Style
 theme: jekyll-theme-minimal

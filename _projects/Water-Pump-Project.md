@@ -18,6 +18,6 @@ If we were to attempt this project again, we would do everything the exact same 
 
 This project was a ton of fun and I learned a lot about how pumps work. I felt like a true engineer after tackling this project!
 
-![Shaded rendering of earlier version](/assets/images/waterpump1.png)
+![Shaded rendering of earlier version]({{ "/assets/images/waterpump1.png" | relative_url }})
 
 
